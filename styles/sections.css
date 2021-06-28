@@ -97,7 +97,9 @@
     text-align: center;
   }
 
-  
+  .card:hover {
+    transform: scale(1.03) !important;
+  }
   
   .card i {
     display: block;
